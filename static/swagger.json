@@ -5,12 +5,12 @@
     "version": "1.0",
     "title": "Reposteria Flask",
     "contact": {
-      "email": "ederiveroman@gmail.com",
-      "name": "Eduardo de Rivero"
+      "email": "mariomedinam@gmail.com",
+      "name": "Mario Medina"
     },
     "termsOfService": "http://google.com"
   },
-  "host": "reposteria-eduardo.herokuapp.com",
+  "host": "reposteria-mario.herokuapp.com",
   "basePath": "/",
   "schemes": [
     "https"
